@@ -71,12 +71,4 @@ The dashboard consists of multiple analytical views:
 | **Net Error** | The difference between forecasted and actual sales figures. |
 | **Benchmarking** | Comparing business performance against industry standards or competitors. |
 
-## 📂 **Project Repository**
-🔗 **GitHub**: [its-ekanshi](https://github.com/its-ekanshi) *(Coming Soon)*
-
-## 🌐 **Portfolio**
-🔗 **Portfolio**: [its-ekanshi.github.io](https://its-ekanshi.github.io/)
-
-## 🔗 **Connect with Me**
-💼 **LinkedIn**: [Ekanshi Saxena](https://www.linkedin.com/in/ekanshisaxena)
 
