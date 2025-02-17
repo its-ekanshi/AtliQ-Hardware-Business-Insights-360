@@ -96,7 +96,7 @@ You can explore the live business insights dashboard [here](https://app.powerbi.
 ---
 
 ## 📞 **Connect with Me**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ekanshi-saxena/) or explore my work on [GitHub](https://github.com/its-ekanshi).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/) or explore my work on [GitHub](https://github.com/its-ekanshi).
 
 ---
 
